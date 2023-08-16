@@ -1,0 +1,7 @@
+{
+  "name": "amsis-store",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
